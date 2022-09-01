@@ -1,0 +1,38 @@
+export default {
+  login: 'designyourownlife',
+  id: 73950923,
+  node_id: 'MDQ6VXNlcjczOTUwOTIz',
+  avatar_url: 'https://avatars.githubusercontent.com/u/73950923?v=4',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/designyourownlife',
+  html_url: 'https://github.com/designyourownlife',
+  followers_url: 'https://api.github.com/users/designyourownlife/followers',
+  following_url:
+    'https://api.github.com/users/designyourownlife/following{/other_user}',
+  gists_url: 'https://api.github.com/users/designyourownlife/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/designyourownlife/starred{/owner}{/repo}',
+  subscriptions_url:
+    'https://api.github.com/users/designyourownlife/subscriptions',
+  organizations_url: 'https://api.github.com/users/designyourownlife/orgs',
+  repos_url: 'https://api.github.com/users/designyourownlife/repos',
+  events_url: 'https://api.github.com/users/designyourownlife/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/designyourownlife/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Matthias Schreiber',
+  company: 'm/s webDev',
+  blog: 'www.designyourownlife.de',
+  location: 'Soest, Germany',
+  email: null,
+  hireable: null,
+  bio: 'Freelance Webdesigner & Frontend Developer',
+  twitter_username: null,
+  public_repos: 19,
+  public_gists: 0,
+  followers: 0,
+  following: 0,
+  created_at: '2020-11-04T14:40:32Z',
+  updated_at: '2022-06-01T12:42:32Z',
+}
